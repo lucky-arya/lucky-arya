@@ -88,7 +88,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 ---
 
 <p align="center">
-  <img src="https://github.com/lucky-arya/lucky-arya/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/lucky-arya/lucky-arya/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
