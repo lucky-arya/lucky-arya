@@ -57,7 +57,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 ### 🌀 My Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucky-arya&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-arya&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
