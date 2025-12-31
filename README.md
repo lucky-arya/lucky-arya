@@ -44,12 +44,12 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucky-arya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-arya&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucky-arya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=lucky-arya&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-arya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-arya&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 ### 🌀 My Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-arya&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-arya&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -80,10 +80,11 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 ---
 
-### 🔥 Fun Fact
+### 🔥 Random Dev Fact
 
-> I can spend hours perfecting a 10-line animation but forget to eat lunch 🍕😅  
-> Building the web, one caffeine-fueled line of code at a time ☕💻  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random Dev Fact" />
+</p>
 
 ---
 
