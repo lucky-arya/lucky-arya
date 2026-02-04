@@ -22,9 +22,10 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 💡 I believe in writing **clean, reusable, and efficient code** that makes the web a better place.
 
-- 🌱 Currently learning: **Next.js**, **TypeScript**, and **Web Security**
-- ⚡ Exploring: **AI-integrated web apps** and **creative UI animations**
-- 🎯 Goal: To build modern, secure, and user-focused digital products
+- 🌱 Currently learning: **Next.js**, **TypeScript**, **React Native**
+- ⚡ Working with: **Cloudinary (Media Management)**, **Postman (API Testing)**, **Render (Deployment)**
+- 🎯 Exploring: **AI-integrated web apps**, **Web Security**, and **creative UI animations**
+
 
 ---
 
@@ -35,9 +36,11 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 | Frontend | Backend | Database | Tools | Deployment |
 |-----------|----------|-----------|--------|-------------|
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-0E1E25?style=for-the-badge&logo=netlify&logoColor=00C7B7) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-0E1E25?style=for-the-badge&logo=netlify&logoColor=00C7B7) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) |  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Render](https://img.shields.io/badge/Render-1C1C1C?style=for-the-badge&logo=render&logoColor=46E3B7) |
 
 </div>
+
 
 ---
 
