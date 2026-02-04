@@ -1,11 +1,11 @@
 <!--Readme File @Shivam Kumar-->
 
 <!-- Animated Header -->
-<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there+👋+I'm+Shivam+Kumar;Full+Stack+Developer+💻;React+|+Node.js+|+Express.js+|+Tailwind+CSS;I+Love+Building+Cool+Web+Experiences!" />
+<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there+I'm+Shivam+Kumar;Full+Stack+Developer;React+|+Node.js+|+Express.js+|+Tailwind+CSS;I+Love+Building+Cool+Web+Experiences!" />
 
 ---
 
-<h3 align="center">🚀 Full Stack Developer | Creative Problem Solver | Tech Explorer 🌌</h3>
+<h3 align="center">Full Stack Developer | Creative Problem Solver | Tech Explorer </h3>
 
 <p align="center">
   <a href="https://github.com/lucky-arya">
@@ -15,21 +15,21 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 Hi! I’m **Shivam Kumar**, a **Full Stack Developer** passionate about crafting beautiful, scalable, and modern web applications.  
 I enjoy turning creative ideas into reality through **React**, **Node.js**, and **Express.js** — all styled to perfection with **Tailwind CSS**.
 
-💡 I believe in writing **clean, reusable, and efficient code** that makes the web a better place.
+ I believe in writing **clean, reusable, and efficient code** that makes the web a better place.
 
-- 🌱 Currently learning: **Next.js**, **TypeScript**, **React Native**
-- ⚡ Working with: **Cloudinary (Media Management)**, **Postman (API Testing)**, **Render (Deployment)**
-- 🎯 Exploring: **AI-integrated web apps**, **Web Security**, and **creative UI animations**
+-  Currently learning: **Next.js**, **TypeScript**, **React Native**
+-  Working with: **Cloudinary (Media Management)**, **Postman (API Testing)**, **Render (Deployment)**
+-  Exploring: **AI-integrated web apps**, **Web Security**, and **creative UI animations**
 
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-arya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -57,7 +57,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 ---
 
-### 🌀 My Contribution Graph
+###  My Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-arya&theme=react-dark&hide_border=true&area=true" />
@@ -65,7 +65,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam963v/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -75,7 +75,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 ---
 
-### ✨ Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -83,7 +83,7 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 
 ---
 
-### 🔥 Random Dev Fact
+###  Random Dev Fact
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random Dev Fact" />
@@ -98,6 +98,6 @@ I enjoy turning creative ideas into reality through **React**, **Node.js**, and 
 ---
 
 <p align="center">
-  <i>⭐ If you like my projects, star them — it keeps me motivated to build more!</i><br/>
+  <i> If you like my projects, star them — it keeps me motivated to build more!</i><br/>
   <b>© 2025 Shivam Kumar | <a href="https://github.com/lucky-arya">lucky-arya</a></b>
 </p>
